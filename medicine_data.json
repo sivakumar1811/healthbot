@@ -1,0 +1,6 @@
+
+{
+  "medicines": ["Paracetamol 500mg", "Ibuprofen 200mg"],
+  "precautions": ["Rest adequately", "Stay hydrated", "Avoid cold food"],
+  "diet": ["Eat fresh fruits rich in Vitamin C", "Drink warm soups", "Avoid spicy and oily food"]
+}
